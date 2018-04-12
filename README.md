@@ -1,0 +1,4 @@
+###start
+```
+webpack --mode=production
+```

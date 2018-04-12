@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "webpack -p"
+  },
+  "dependencies": {
+    "clean-webpack-plugin": "^0.1.19",
+    "uglifyjs-webpack-plugin": "^1.2.4",
+    "webpack": "^4.5.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^2.0.14"
+  }
+}
